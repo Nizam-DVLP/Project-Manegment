@@ -124,7 +124,7 @@ project-management/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/project-management.git
+git clone https://github.com/Project-Manegment/
 ```
 
 ## Navigate
